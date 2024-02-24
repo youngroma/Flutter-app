@@ -228,7 +228,7 @@ class _TrainListPageState extends State<TrainListPage> {
         price: '35 Euro',
         trainClass: '2nd Class',
         travelTime: '3h 22m',
-        departureTime: '15:55',
+        departureTime: '15:54',
         selectedCity: selectedCity,
       ),
       TrainCard(
